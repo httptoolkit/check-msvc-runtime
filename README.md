@@ -18,8 +18,11 @@ Now, any time you `npm install` in your repo on Windows, if the MSVC runtime isn
 > ./bin.js
 
 ***********************
-The Microsoft Visual C++ Runtime is not installed, and is required to set up this project on Windows.
-Install it from https://learn.microsoft.com/cpp/windows/latest-supported-vc-redist
+The Microsoft Visual C++ Runtime is not installed, and is
+required to set up this project on Windows.
+
+Install it from:
+https://learn.microsoft.com/cpp/windows/latest-supported-vc-redist
 ***********************
 
 npm ERR! code 1
