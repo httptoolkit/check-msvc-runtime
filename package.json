@@ -1,0 +1,30 @@
+{
+  "name": "check-msvc-runtime",
+  "version": "0.0.0",
+  "description": "Easily show a warning if the Microsoft Visual C++ Redistributable is not installed on Windows ",
+  "main": "check.js",
+  "bin": {
+    "check-msvc-runtime": "bin.js"
+  },
+  "scripts": {
+    "preinstall": "./bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/httptoolkit/check-msvc-runtime.git"
+  },
+  "keywords": [
+    "msvc",
+    "visual",
+    "c++",
+    "redistributable",
+    "redist",
+    "microsoft"
+  ],
+  "author": "Tim Perry <tim@httptoolkit.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/httptoolkit/check-msvc-runtime/issues"
+  },
+  "homepage": "https://github.com/httptoolkit/check-msvc-runtime#readme"
+}
