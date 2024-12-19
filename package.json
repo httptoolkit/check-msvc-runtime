@@ -7,7 +7,7 @@
     "check-msvc-runtime": "bin.js"
   },
   "scripts": {
-    "preinstall": "./bin.js"
+    "preinstall": "node bin.js"
   },
   "repository": {
     "type": "git",
