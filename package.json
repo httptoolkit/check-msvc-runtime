@@ -1,6 +1,6 @@
 {
   "name": "check-msvc-runtime",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easily show a warning if the Microsoft Visual C++ Redistributable is not installed on Windows ",
   "main": "check.js",
   "bin": {
